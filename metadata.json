@@ -1,0 +1,6 @@
+{
+  "name": "vAPI Router Studio",
+  "description": "Interactive OpenAI-compatible chat completions playground and SDK workbench for vAPI Router and venice/deepseek-v4-flash.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
